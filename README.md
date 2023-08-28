@@ -17,7 +17,7 @@ window install file 下载：
 
 mac install file 下载：
 
-[mac download](https://github.com/ideateam/codemaker/blob/main/codemaker.dmg)
+[mac download](https://github.com/ideateam/codemaker/blob/main/codemaker_mac.zip)
 
 
 ![](https://github.com/ideateam/codemaker/blob/main/mac1.PNG)
