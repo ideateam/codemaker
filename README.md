@@ -10,14 +10,14 @@ A code editor developed using Google Flutter programming language.一个使用�
 
 window install file 下载：
 
-![window download](https://github.com/ideateam/codemaker/blob/main/codemaker_windows.zip)
+[window download](https://github.com/ideateam/codemaker/blob/main/codemaker_windows.zip)
 
 ![](https://github.com/ideateam/codemaker/blob/main/win.PNG)
 
 
 mac install file 下载：
 
-![mac download](https://github.com/ideateam/codemaker/blob/main/codemaker_mac.zip)
+[mac download](https://github.com/ideateam/codemaker/blob/main/codemaker_mac.zip)
 
 
 ![](https://github.com/ideateam/codemaker/blob/main/mac1.PNG)
